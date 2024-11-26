@@ -1,0 +1,33 @@
+clear
+chmod +x queries.sh
+./insert_data.sh
+./insert_data.sh
+$($PSQL "SELECT COUNT(*) FROM teams;")
+$ psql --username=freecodecamp --dbname=worldcup -t --no-align -c "SELECT COUNT(*) FROM teams;"
+psql --username=freecodecamp --dbname=worldcup -t --no-align -c "SELECT COUNT(*) FROM teams;"
+psql --username=freecodecamp --dbname=worldcup -t --no-align -c
+$ psql --username=freecodecamp --dbname=worldcup -t --no-align -c
+psql --username=freecodecamp --dbname=worldcup
+chmod +x insert_data.sh
+./insert_data.sh
+psql --username=freecodecamp --dbname=worldcup -t --no-align -c "SELECT COUNT(*) FROM teams;"
+chmod +x queries.sh
+chmod +x queries.sh
+chmod +x queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./insert_data.sh
+chmod +x queries.sh
+./queries.sh
+chmod +x queries.sh
+./queries.sh
+./insert_data.sh
+./queries.sh
+./insert_data.sh
+./queries.sh
+./queries.sh
+./insert_data.sh
+./queries.sh
